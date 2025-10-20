@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+tensorflow # or pytorch (specify whichever you use)
+jupyter
+matplotlib
+opencv-python
+
+
